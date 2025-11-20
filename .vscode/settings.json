@@ -1,6 +1,12 @@
 {
-     "window.zoomLevel": 0,
+    "window.zoomLevel": 0,
     "chat.fontSize": 14,
     "workbench.colorTheme": "Catppuccin Alt Mocha",
-    "workbench.iconTheme": "icons"
+    "workbench.iconTheme": "icons",
+
+    "python.analysis.extraPaths": [
+        ".",
+        "./database",
+        "./ui"
+    ]
 }
