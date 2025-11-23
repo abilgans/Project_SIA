@@ -1,11 +1,3 @@
-# main.py
-"""
-Project SIA - Kelompok Ngapak
-Single-file desktop app (Tkinter) with OTP activation on Register.
-Refactored: safer DB access, auto-retry, modular DB helper, saldo awal, applied-adjustments,
-trial adjusted, reports, exports, and UI tables for adjustment & trial adjusted.
-Python 3.14+
-"""
 import os
 import sqlite3
 import hashlib
@@ -49,7 +41,7 @@ getcontext().prec = 28
 
 # ---------------- CONFIG ----------------
 DB_FILENAME = "akuntansi.db"
-APP_TITLE = "Project SIA - Kelompok Ngapak"
+APP_TITLE = "SAM POO KONG xlim go" 
 
 WINDOW_BG = "#FFF0F0"         # Background putih-kemerahan
 COLOR_PRIMARY = "#C00000"     # Merah klenteng pekat

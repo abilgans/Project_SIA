@@ -32,7 +32,7 @@ from reportlab.lib.styles import getSampleStyleSheet
 
 
 DB_FILENAME = "akuntansi.db"
-APP_TITLE = "Project SIA - Kelompok Ngapak"
+APP_TITLE = "SAM POO KONG xlim go" 
 
 WINDOW_BG = "#FFF0F0"         # Background putih-kemerahan
 COLOR_PRIMARY = "#C00000"     # Merah klenteng pekat
